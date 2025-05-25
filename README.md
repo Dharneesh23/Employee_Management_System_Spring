@@ -46,9 +46,9 @@ src
 **POST /addEmployee**
 ```json
 {
-  "employee_Id": 101,
-  "name": "John Doe",
-  "department": "IT"
+  "employee_Id": 23,
+  "name": "Dharneesh S",
+  "department": "CS"
 }
 
 

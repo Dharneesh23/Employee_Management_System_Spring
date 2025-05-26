@@ -31,6 +31,15 @@ src
 └── resources
 └── application.properties
 
+## Console Execution
+
+
+
+https://github.com/user-attachments/assets/b8ba8a1a-4d92-4e4d-b40f-d34a25c7919b
+
+
+
+
 
 ## 📫 API Endpoints
 
